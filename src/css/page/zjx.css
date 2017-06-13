@@ -1,0 +1,150 @@
+@import "../lib/reset.css";
+.bai-hr {
+  width: 100%;
+  height: 44px;
+  background: #3a7fde;
+  text-align: center;
+  line-height: 44px;
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+}
+.bai-hr p {
+  font-size: 1.4rem;
+  color: #fff;
+}
+.bai-mn .mn-banner img {
+  width: 100%;
+  height: auto;
+}
+.bai-mn .mn-card {
+  margin: 1.4rem 15px 0;
+}
+.bai-mn .mn-card .card-pt {
+  margin-right: 32px;
+  padding-bottom: 1.1rem;
+  display: inline-block;
+  border-bottom: 1px solid #e5e5e5;
+}
+.bai-mn .mn-card .card-pt span {
+  font-size: 1.8rem;
+  color: #252525;
+  line-height: 2.7rem;
+  font-weight: 600;
+}
+.bai-mn .mn-card .mn-tong {
+  color: #a2a2a2;
+  font-size: 1rem;
+  margin: 1.3rem 0 1.4rem;
+}
+.bai-mn .mn-card .mn-tong .mn-ci {
+  width: 4.5rem;
+  height: 1.7rem;
+  line-height: 1rem;
+  margin-right: 10px;
+  text-align: center;
+  color: #459df5;
+  border: 1px solid #459df5;
+  border-radius: 2px;
+}
+.bai-mn .mn-card .mn-content .content-p {
+  margin-top: 1.5rem;
+  font-size: 1.2rem;
+  line-height: 2rem;
+}
+.bai-mn .mn-card .mn-content .content-p a {
+  color: #3a7fde;
+}
+.bai-mn .mn-card .card-ch {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  line-height: 2rem;
+}
+.bai-mn .mn-framework {
+  margin: 1.4rem 15px 0;
+}
+.bai-mn .mn-framework .aa {
+  display: block;
+}
+.bai-mn .mn-framework h2 {
+  margin-top: 2.5rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  border-left: 5px solid #459df5;
+  margin-left: -15px;
+  padding-left: 10px;
+}
+.bai-mn .mn-framework .content-p {
+  margin-top: 1.5rem;
+  font-size: 1.2rem;
+  line-height: 2rem;
+}
+.bai-mn .mn-framework .content-p a {
+  color: #3a7fde;
+}
+.bai-mn .mn-can {
+  z-index: 99;
+  position: fixed;
+  bottom: 60px;
+  right: 15px;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: normal;
+  line-height: 4rem;
+  text-align: center;
+  background: rgba(69, 157, 245, 0.9);
+}
+.bai-mn .mn-can span {
+  color: #fff;
+}
+.bai-mn #bb {
+  z-index: 999;
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: black;
+  right: 20px;
+  display: none;
+  bottom: 10px;
+}
+.bai-mn #bb span {
+  color: #fff;
+  display: block;
+  font-size: 10px;
+  text-align: center;
+  margin-top: 5px;
+}
+.bai-mn .bk-list {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  display: none;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.bai-mn .bk-list .list-lt {
+  width: 40%;
+  height: 100%;
+}
+.bai-mn .bk-list .list-rt {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 60%;
+  height: 100%;
+  background-color: #fff;
+}
+.bai-mn .bk-list .list-rt li {
+  padding-left: 15px;
+  height: 50px;
+  line-height: 50px;
+}
+.bai-mn .bk-list .list-rt li a {
+  color: black;
+  display: inline-block;
+}
