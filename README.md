@@ -2,11 +2,11 @@
 
 一.分工情况：
 
-1.朱家翔 首页  （zjx.html   /  zjx.css   /  zjx.js）
+1.朱家翔   百度词条（zjx.html   /  zjx.css   /  zjx.js）
 
-2.赵永刚 爱丽奢 （zyg.html / zyg.css / zyg.js）
+2.赵永刚  百度词条（zyg.html / zyg.css / zyg.js）
 
-3.牛嘉乐  购物车 （njl.html / njl.css / njl.js）
+3.牛嘉乐   百度词条（njl.html / njl.css / njl.js）
 
 二.进度规划：
 
